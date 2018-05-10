@@ -1,0 +1,3 @@
+com\ibm\banorte\web\AdapterBanorteAdminTerminalesApplication.class
+com\ibm\banorte\web\AdapterBanorteAdminTerminalesResource.class
+com\ibm\banorte\security\BanorteCommonSecurityCheck.class

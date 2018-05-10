@@ -1,0 +1,6 @@
+com\ibm\banorte\security\BanorteSecurityCheck.class
+com\ibm\banorte\ws\common\VerifyRecaptcha.class
+com\ibm\banorte\ws\common\BanorteWSSecurity.class
+com\ibm\banorte\ws\common\BanorteService.class
+com\ibm\banorte\ws\common\Authenticable.class
+com\ibm\banorte\ws\common\SoapBuilderWrapper.class
